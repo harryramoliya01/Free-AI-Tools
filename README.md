@@ -17,6 +17,7 @@ Happy coding!
 7. [Lumen5](https://lumen5.com/) — AI-powered video creation platform for turning text into engaging videos.
 8. [Fotor](https://www.fotor.com/) — AI-powered photo editing and design platform.
 9. [Vectr](https://vectr.com/) — AI-powered vector graphics editor for creating vector illustrations and designs.
+10. [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 
 ### Development:
 10. [DeepCode](https://www.deepcode.ai/) — AI-powered code review tool for finding and fixing issues in your code.
