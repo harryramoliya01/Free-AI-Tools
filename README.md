@@ -74,3 +74,5 @@ Happy coding!
 
 **Note:** Each tool serves multiple purposes and may overlap with other categories.
 ```  
+
+- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
