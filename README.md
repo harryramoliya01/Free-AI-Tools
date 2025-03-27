@@ -23,10 +23,11 @@ Happy coding!
 10. [DeepCode](https://www.deepcode.ai/) — AI-powered code review tool for finding and fixing issues in your code.
 11. [Tabnine](https://www.tabnine.com/) — AI-powered code completion tool for developers.
 12. [Codota](https://www.codota.com/) — AI code completion and documentation tool for Java and Kotlin.
-13. [Kite](https://www.kite.com/) — AI-powered code completion tool for Python developers.
-14. [Deep Learning Studio](https://deepcognition.ai/) — AI-powered deep learning platform for building and deploying models.
-15. [ModelDepot](https://modeldepot.io/) — AI-powered model repository for sharing and discovering machine learning models.
-16. [Weights & Biases](https://wandb.ai/site) — AI-powered experiment tracking and visualization platform for machine learning.
+13. [GoCodeo](https://www.gocodeo.com/) -  AI agent that lets you build and deploy full-stack apps effortlessly, with one click Vercel deployment and seamless Supabase integration
+14. [Kite](https://www.kite.com/) — AI-powered code completion tool for Python developers.
+15. [Deep Learning Studio](https://deepcognition.ai/) — AI-powered deep learning platform for building and deploying models.
+16. [ModelDepot](https://modeldepot.io/) — AI-powered model repository for sharing and discovering machine learning models.
+17. [Weights & Biases](https://wandb.ai/site) — AI-powered experiment tracking and visualization platform for machine learning.
 
 ### Deployment:
 17. [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) — A flexible, high-performance serving system for machine learning models.
