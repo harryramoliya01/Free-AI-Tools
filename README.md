@@ -9,6 +9,7 @@ Happy coding!
 
 ### Design:
 1. [Remove.bg](https://www.remove.bg/) — Automatically remove backgrounds from images using AI.
+11. [igly.ai](https://igly.ai/) — Free AI image editor with 12+ tools for e-commerce: background removal, image generation, inpainting, upscaling, virtual try-on and more.
 2. [Canva](https://www.canva.com/) — AI-powered design platform for creating graphics, presentations, and more.
 3. [Deep Dream Generator](https://deepdreamgenerator.com/) — Turn your photos into works of art using neural networks.
 4. [Artbreeder](https://www.artbreeder.com/) — Create new images by blending existing ones using AI.
