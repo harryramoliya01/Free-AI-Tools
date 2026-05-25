@@ -18,6 +18,7 @@ Happy coding!
 8. [Fotor](https://www.fotor.com/) — AI-powered photo editing and design platform.
 9. [Vectr](https://vectr.com/) — AI-powered vector graphics editor for creating vector illustrations and designs.
 10. [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
+11. [LandscapioAI](https://www.landscapioai.com/) — Free AI landscape design generator for turning yard and garden photos into outdoor design ideas.
 
 ### Development:
 10. [DeepCode](https://www.deepcode.ai/) — AI-powered code review tool for finding and fixing issues in your code.
