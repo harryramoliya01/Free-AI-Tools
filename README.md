@@ -71,6 +71,7 @@ Happy coding!
 48. [SpeechText.AI](https://speechtext.ai/) — AI-powered tool for converting speech to text in real-time.
 49. [Speechmatics](https://www.speechmatics.com/) — AI-powered speech recognition and transcription platform.
 50. [OpenAI GPT-3](https://openai.com/) — AI-powered language generation model for generating human-like text.
+51. [Daily AI Intel Free Tools](https://dailyaiintel.com/tools) — A collection of 24 free, no-signup AI tools that run entirely in the browser, including an AI cost calculator, model comparison table, system prompt builder, and prompt template library.
 
 **Note:** Each tool serves multiple purposes and may overlap with other categories.
 ```  
