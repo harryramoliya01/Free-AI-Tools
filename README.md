@@ -38,6 +38,7 @@ Happy coding!
 
 ### Content Writing:
 23. [Grammarly](https://www.grammarly.com/) — AI-powered writing assistant for improving grammar, punctuation, and style.
+23b. [ResumeAI](https://withresumeai.com/) — Free ATS checker and AI resume builder (3/day anonymous, 10/day free account).
 24. [Hemingway Editor](http://www.hemingwayapp.com/) — AI-powered editor that helps you write clear and concise content.
 25. [Surfer SEO](https://surferseo.com/) — AI-powered SEO tool for optimizing content and improving search rankings.
 26. [Copy.ai](https://www.copy.ai/) — AI-powered copywriting tool for generating marketing copy, blog posts, and more.
