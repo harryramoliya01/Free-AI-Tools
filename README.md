@@ -71,6 +71,7 @@ Happy coding!
 48. [SpeechText.AI](https://speechtext.ai/) — AI-powered tool for converting speech to text in real-time.
 49. [Speechmatics](https://www.speechmatics.com/) — AI-powered speech recognition and transcription platform.
 50. [OpenAI GPT-3](https://openai.com/) — AI-powered language generation model for generating human-like text.
+51. [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) — AI 만화 번역기는 Ficory LLC의 기업급 만화 리더로, 개인 사용자에게 일괄 번역과 맞춤 번역을 제공합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기로 만화 페이지를 편집하며, 개발자는 API를 개인 작업 흐름에 연결합니다. 이 도구는 제품이 지원하는 모든 번역 언어를 제공하며, 제한된 무료 이용과 유료 요금제를 운영합니다.
 
 **Note:** Each tool serves multiple purposes and may overlap with other categories.
 ```  
